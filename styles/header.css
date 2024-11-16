@@ -1,5 +1,6 @@
 header {
   padding-block: 32px;
+  font: var(--text-md);
 }
 
 header .container {
@@ -24,12 +25,12 @@ header .container {
 }
 
 #profile div p {
-  font: var(--text-md);
+  /*font: var(--text-md);*/
   color: var(--text-color-secondary);
 }
 
 #info {
-  font: var(--text-md);
+  /*font: var(--text-md);*/
   list-style: none;
   display: flex;
   flex-direction: column;
